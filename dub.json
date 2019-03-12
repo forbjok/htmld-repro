@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"forbjok"
+	],
+	"copyright": "Copyright © 2019, forbjok",
+	"description": "A minimal D application.",
+	"license": "MIT",
+	"name": "htmld-repro",
+	"dependencies": {
+		"htmld": "*"
+	}	
+}

@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/htmld-repro
+htmld-repro.so
+htmld-repro.dylib
+htmld-repro.dll
+htmld-repro.a
+htmld-repro.lib
+htmld-repro-test-*
+*.exe
+*.o
+*.obj
+*.lst
